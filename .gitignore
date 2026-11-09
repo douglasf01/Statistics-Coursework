@@ -1,0 +1,13 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+
+# Plots and other outputs written by the scripts
+*.png
+*.jpg
+*.pdf
+
+# Data that is not part of this repository
+controllers.dat
